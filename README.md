@@ -61,7 +61,7 @@ crowding out individual hosts in high-demand boroughs.
 ## Dashboard
 Interactive Tableau dashboard with borough filter, map view, 
 room-type breakdown, and KPI cards.  
-[View Live Dashboard](#) ← replace with your Tableau Public link
+[View Live Dashboard](https://public.tableau.com/views/NYC-Airbnb-Market-Analysis-Lalita-Gupta/NYCAirbnbMarketAnalysisInteractiveDashboard)
 
 ---
 
